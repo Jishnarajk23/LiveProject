@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="18" total="50" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="743857" started-at="2022-12-25T20:37:03 IST" finished-at="2022-12-25T20:49:27 IST">
+    <groups>
+      <group name="SMK">
+        <method signature="VerifyValidUserLoginTest.VerifyUserLogin()[pri:1, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="VerifyUserLogin" class="com.Restaurant.TestCases.VerifyValidUserLoginTest"/>
+      </group> <!-- SMK -->
+    </groups>
+    <test name="Test" duration-ms="743857" started-at="2022-12-25T20:37:03 IST" finished-at="2022-12-25T20:49:27 IST">
+      <class name="com.Restaurant.TestCases.VerifyStoresTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="FirstCall" is-config="true" duration-ms="10566" started-at="2022-12-25T20:45:22 IST" finished-at="2022-12-25T20:45:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="addStores()[pri:2, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="addStores" duration-ms="15254" started-at="2022-12-25T20:45:32 IST" finished-at="2022-12-25T20:45:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStores -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="DriverClose" is-config="true" duration-ms="146" started-at="2022-12-25T20:45:47 IST" finished-at="2022-12-25T20:45:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="FirstCall" is-config="true" duration-ms="8614" started-at="2022-12-25T20:45:48 IST" finished-at="2022-12-25T20:45:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="EditStores()[pri:3, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="EditStores" duration-ms="13341" started-at="2022-12-25T20:45:56 IST" finished-at="2022-12-25T20:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditStores -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="DriverClose" is-config="true" duration-ms="155" started-at="2022-12-25T20:46:09 IST" finished-at="2022-12-25T20:46:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="FirstCall" is-config="true" duration-ms="9162" started-at="2022-12-25T20:46:10 IST" finished-at="2022-12-25T20:46:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="DeleteStores()[pri:4, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="DeleteStores" duration-ms="15523" started-at="2022-12-25T20:46:19 IST" finished-at="2022-12-25T20:46:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteStores -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyStoresTest@8b87145]" name="DriverClose" is-config="true" duration-ms="148" started-at="2022-12-25T20:46:34 IST" finished-at="2022-12-25T20:46:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VerifyStoresTest -->
+      <class name="com.Restaurant.TestCases.VeriyReportPageTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="10219" started-at="2022-12-25T20:46:34 IST" finished-at="2022-12-25T20:46:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyReportPage()[pri:1, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="VerifyReportPage" duration-ms="9559" started-at="2022-12-25T20:46:45 IST" finished-at="2022-12-25T20:46:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReportPage -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="145" started-at="2022-12-25T20:46:54 IST" finished-at="2022-12-25T20:46:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="12052" started-at="2022-12-25T20:46:54 IST" finished-at="2022-12-25T20:47:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyReportPageClientStat()[pri:2, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="VerifyReportPageClientStat" duration-ms="11095" started-at="2022-12-25T20:47:06 IST" finished-at="2022-12-25T20:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReportPageClientStat -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="139" started-at="2022-12-25T20:47:18 IST" finished-at="2022-12-25T20:47:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="10552" started-at="2022-12-25T20:47:18 IST" finished-at="2022-12-25T20:47:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyReportProductStat()[pri:3, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="VerifyReportProductStat" duration-ms="10723" started-at="2022-12-25T20:47:28 IST" finished-at="2022-12-25T20:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReportProductStat -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="131" started-at="2022-12-25T20:47:39 IST" finished-at="2022-12-25T20:47:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="10027" started-at="2022-12-25T20:47:39 IST" finished-at="2022-12-25T20:47:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyReportStoreStat()[pri:4, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="VerifyReportStoreStat" duration-ms="10930" started-at="2022-12-25T20:47:49 IST" finished-at="2022-12-25T20:48:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyReportStoreStat -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="174" started-at="2022-12-25T20:48:00 IST" finished-at="2022-12-25T20:48:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="8152" started-at="2022-12-25T20:48:00 IST" finished-at="2022-12-25T20:48:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="FAIL" signature="ClickOnPreviousYear()[pri:5, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="ClickOnPreviousYear" duration-ms="9123" started-at="2022-12-25T20:48:08 IST" finished-at="2022-12-25T20:48:18 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Not ClickOnPreviousYear expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Not ClickOnPreviousYear expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at com.Restaurant.TestCases.VeriyReportPageTest.ClickOnPreviousYear(VeriyReportPageTest.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnPreviousYear -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="167" started-at="2022-12-25T20:48:18 IST" finished-at="2022-12-25T20:48:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="FirstCall" is-config="true" duration-ms="9768" started-at="2022-12-25T20:48:18 IST" finished-at="2022-12-25T20:48:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="FAIL" signature="ClickOnNextYear()[pri:6, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="ClickOnNextYear" duration-ms="9942" started-at="2022-12-25T20:48:28 IST" finished-at="2022-12-25T20:48:38 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Not ClickOnNextYear expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Not ClickOnNextYear expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at com.Restaurant.TestCases.VeriyReportPageTest.ClickOnNextYear(VeriyReportPageTest.java:66)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnNextYear -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VeriyReportPageTest@6483f5ae]" name="DriverClose" is-config="true" duration-ms="163" started-at="2022-12-25T20:48:38 IST" finished-at="2022-12-25T20:48:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VeriyReportPageTest -->
+      <class name="com.Restaurant.TestCases.VerifyCategoriesTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyCategoriesTest@1068e947]" name="FirstCall" is-config="true" duration-ms="11332" started-at="2022-12-25T20:44:19 IST" finished-at="2022-12-25T20:44:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="FAIL" signature="VerifyCategories()[pri:1, instance:com.Restaurant.TestCases.VerifyCategoriesTest@1068e947]" name="VerifyCategories" duration-ms="5736" started-at="2022-12-25T20:44:31 IST" finished-at="2022-12-25T20:44:36 IST">
+          <exception class="org.openqa.selenium.InvalidSelectorException">
+            <message>
+              <![CDATA[invalid selector: Unable to locate an element with the xpath expression (//span[contains(text(),'Expense')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//span[contains(text(),'Expense')]' is not a valid XPath expression.
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.3', revision: '4b786a1e430'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [309777c351f07040dcb45298695b1d9a, findElement {using=xpath, value=(//span[contains(text(),'Expense')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Arun\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59479}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59479/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 309777c351f07040dcb45298695b1d9a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression (//span[contains(text(),'Expense')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//span[contains(text(),'Expense')]' is not a valid XPath expression.
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.5.3', revision: '4b786a1e430'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_351'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [309777c351f07040dcb45298695b1d9a, findElement {using=xpath, value=(//span[contains(text(),'Expense')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Arun\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:59479}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59479/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 309777c351f07040dcb45298695b1d9a
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:541)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy19.isDisplayed(Unknown Source)
+at Com.Restaurant.PageObject.CategoriesPage.ExpensDisplayed(CategoriesPage.java:46)
+at com.Restaurant.TestCases.VerifyCategoriesTest.VerifyCategories(VerifyCategoriesTest.java:21)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidSelectorException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCategories -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyCategoriesTest@1068e947]" name="DriverClose" is-config="true" duration-ms="125" started-at="2022-12-25T20:44:37 IST" finished-at="2022-12-25T20:44:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VerifyCategoriesTest -->
+      <class name="com.Restaurant.TestCases.VerifyProductPageTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="11440" started-at="2022-12-25T20:40:05 IST" finished-at="2022-12-25T20:40:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyProduct()[pri:1, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="VerifyProduct" duration-ms="16416" started-at="2022-12-25T20:40:17 IST" finished-at="2022-12-25T20:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProduct -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="155" started-at="2022-12-25T20:40:33 IST" finished-at="2022-12-25T20:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="7872" started-at="2022-12-25T20:40:33 IST" finished-at="2022-12-25T20:40:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifySelectEachElements()[pri:2, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="VerifySelectEachElements" duration-ms="20346" started-at="2022-12-25T20:40:41 IST" finished-at="2022-12-25T20:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySelectEachElements -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="138" started-at="2022-12-25T20:41:02 IST" finished-at="2022-12-25T20:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="8819" started-at="2022-12-25T20:41:02 IST" finished-at="2022-12-25T20:41:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="selectSupplier()[pri:3, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="selectSupplier" duration-ms="35587" started-at="2022-12-25T20:41:11 IST" finished-at="2022-12-25T20:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSupplier -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="163" started-at="2022-12-25T20:41:46 IST" finished-at="2022-12-25T20:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="8687" started-at="2022-12-25T20:41:46 IST" finished-at="2022-12-25T20:41:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="FAIL" signature="addProduct()[pri:4, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="addProduct" duration-ms="28527" started-at="2022-12-25T20:41:55 IST" finished-at="2022-12-25T20:42:24 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Search element not found expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Search element not found expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at com.Restaurant.TestCases.VerifyProductPageTest.addProduct(VerifyProductPageTest.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="156" started-at="2022-12-25T20:42:36 IST" finished-at="2022-12-25T20:42:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="10812" started-at="2022-12-25T20:42:37 IST" finished-at="2022-12-25T20:42:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="EditProduct()[pri:5, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="EditProduct" duration-ms="46480" started-at="2022-12-25T20:42:47 IST" finished-at="2022-12-25T20:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProduct -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="128" started-at="2022-12-25T20:43:34 IST" finished-at="2022-12-25T20:43:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="FirstCall" is-config="true" duration-ms="12760" started-at="2022-12-25T20:43:34 IST" finished-at="2022-12-25T20:43:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="deleteProduct()[pri:6, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="deleteProduct" duration-ms="32341" started-at="2022-12-25T20:43:47 IST" finished-at="2022-12-25T20:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyProductPageTest@2f8f5f62]" name="DriverClose" is-config="true" duration-ms="203" started-at="2022-12-25T20:44:19 IST" finished-at="2022-12-25T20:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VerifyProductPageTest -->
+      <class name="com.Restaurant.TestCases.VerifyEachLanguageTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="FirstCall" is-config="true" duration-ms="9128" started-at="2022-12-25T20:44:37 IST" finished-at="2022-12-25T20:44:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="SelectPortuguese()[pri:0, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="SelectPortuguese" duration-ms="12578" started-at="2022-12-25T20:44:46 IST" finished-at="2022-12-25T20:44:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectPortuguese -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="DriverClose" is-config="true" duration-ms="140" started-at="2022-12-25T20:44:58 IST" finished-at="2022-12-25T20:44:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="FirstCall" is-config="true" duration-ms="8893" started-at="2022-12-25T20:44:58 IST" finished-at="2022-12-25T20:45:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="SelectFrance()[pri:1, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="SelectFrance" duration-ms="14017" started-at="2022-12-25T20:45:07 IST" depends-on-methods="com.Restaurant.TestCases.VerifyEachLanguageTest.SelectPortuguese" finished-at="2022-12-25T20:45:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFrance -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyEachLanguageTest@5fcd892a]" name="DriverClose" is-config="true" duration-ms="151" started-at="2022-12-25T20:45:21 IST" finished-at="2022-12-25T20:45:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VerifyEachLanguageTest -->
+      <class name="com.Restaurant.TestCases.VerifyPeopleTest">
+        <test-method status="PASS" signature="beoreSuite()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="beoreSuite" is-config="true" duration-ms="248" started-at="2022-12-25T20:37:03 IST" finished-at="2022-12-25T20:37:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beoreSuite -->
+        <test-method status="PASS" signature="loadConfig()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="loadConfig" is-config="true" duration-ms="1" started-at="2022-12-25T20:37:03 IST" finished-at="2022-12-25T20:37:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="8886" started-at="2022-12-25T20:37:03 IST" finished-at="2022-12-25T20:37:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyPeople()[pri:1, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="VerifyPeople" duration-ms="6124" started-at="2022-12-25T20:37:12 IST" finished-at="2022-12-25T20:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPeople -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="239" started-at="2022-12-25T20:37:18 IST" finished-at="2022-12-25T20:37:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="7894" started-at="2022-12-25T20:37:18 IST" finished-at="2022-12-25T20:37:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="AddWaiters()[pri:2, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="AddWaiters" duration-ms="10612" started-at="2022-12-25T20:37:26 IST" finished-at="2022-12-25T20:37:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddWaiters -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="178" started-at="2022-12-25T20:37:37 IST" finished-at="2022-12-25T20:37:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="6092" started-at="2022-12-25T20:37:37 IST" finished-at="2022-12-25T20:37:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="SearchWaiters()[pri:3, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="SearchWaiters" duration-ms="6701" started-at="2022-12-25T20:37:43 IST" finished-at="2022-12-25T20:37:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchWaiters -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="160" started-at="2022-12-25T20:37:50 IST" finished-at="2022-12-25T20:37:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="6680" started-at="2022-12-25T20:37:50 IST" finished-at="2022-12-25T20:37:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="DeleteWaiters()[pri:4, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DeleteWaiters" duration-ms="11910" started-at="2022-12-25T20:37:57 IST" finished-at="2022-12-25T20:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteWaiters -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="161" started-at="2022-12-25T20:38:08 IST" finished-at="2022-12-25T20:38:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="5997" started-at="2022-12-25T20:38:09 IST" finished-at="2022-12-25T20:38:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="AddCustomers()[pri:5, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="AddCustomers" duration-ms="11485" started-at="2022-12-25T20:38:15 IST" finished-at="2022-12-25T20:38:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCustomers -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="198" started-at="2022-12-25T20:38:26 IST" finished-at="2022-12-25T20:38:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="6795" started-at="2022-12-25T20:38:26 IST" finished-at="2022-12-25T20:38:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="SearchCustomers()[pri:6, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="SearchCustomers" duration-ms="7742" started-at="2022-12-25T20:38:33 IST" finished-at="2022-12-25T20:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchCustomers -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="153" started-at="2022-12-25T20:38:41 IST" finished-at="2022-12-25T20:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="8234" started-at="2022-12-25T20:38:41 IST" finished-at="2022-12-25T20:38:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="DeleteCustomers()[pri:7, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DeleteCustomers" duration-ms="10580" started-at="2022-12-25T20:38:49 IST" finished-at="2022-12-25T20:39:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCustomers -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="175" started-at="2022-12-25T20:39:00 IST" finished-at="2022-12-25T20:39:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="8344" started-at="2022-12-25T20:39:00 IST" finished-at="2022-12-25T20:39:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="AddSupplier()[pri:8, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="AddSupplier" duration-ms="11009" started-at="2022-12-25T20:39:08 IST" finished-at="2022-12-25T20:39:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddSupplier -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="149" started-at="2022-12-25T20:39:19 IST" finished-at="2022-12-25T20:39:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="9537" started-at="2022-12-25T20:39:20 IST" finished-at="2022-12-25T20:39:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="SearchSuppliers()[pri:9, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="SearchSuppliers" duration-ms="13494" started-at="2022-12-25T20:39:29 IST" finished-at="2022-12-25T20:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchSuppliers -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="167" started-at="2022-12-25T20:39:43 IST" finished-at="2022-12-25T20:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="FirstCall" is-config="true" duration-ms="9828" started-at="2022-12-25T20:39:43 IST" finished-at="2022-12-25T20:39:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="DeleteSuppliers()[pri:10, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DeleteSuppliers" duration-ms="12699" started-at="2022-12-25T20:39:53 IST" finished-at="2022-12-25T20:40:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteSuppliers -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="DriverClose" is-config="true" duration-ms="146" started-at="2022-12-25T20:40:05 IST" finished-at="2022-12-25T20:40:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="AfterSuit()[pri:0, instance:com.Restaurant.TestCases.VerifyPeopleTest@5a4041cc]" name="AfterSuit" is-config="true" duration-ms="435" started-at="2022-12-25T20:49:27 IST" finished-at="2022-12-25T20:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuit -->
+      </class> <!-- com.Restaurant.TestCases.VerifyPeopleTest -->
+      <class name="com.Restaurant.TestCases.VerifyValidUserLoginTest">
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="FirstCall" is-config="true" duration-ms="10323" started-at="2022-12-25T20:48:38 IST" finished-at="2022-12-25T20:48:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyUserLogin()[pri:1, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="VerifyUserLogin" duration-ms="6368" started-at="2022-12-25T20:48:48 IST" finished-at="2022-12-25T20:48:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserLogin -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="DriverClose" is-config="true" duration-ms="141" started-at="2022-12-25T20:48:55 IST" finished-at="2022-12-25T20:48:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="FirstCall" is-config="true" duration-ms="10534" started-at="2022-12-25T20:48:55 IST" finished-at="2022-12-25T20:49:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:2, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="VerifyInvalidUserLogin" duration-ms="721" started-at="2022-12-25T20:49:05 IST" data-provider="InvalidLoginDatas" finished-at="2022-12-25T20:49:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="DriverClose" is-config="true" duration-ms="140" started-at="2022-12-25T20:49:06 IST" finished-at="2022-12-25T20:49:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="FirstCall" is-config="true" duration-ms="8834" started-at="2022-12-25T20:49:06 IST" finished-at="2022-12-25T20:49:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:2, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="VerifyInvalidUserLogin" duration-ms="755" started-at="2022-12-25T20:49:15 IST" data-provider="InvalidLoginDatas" finished-at="2022-12-25T20:49:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="DriverClose" is-config="true" duration-ms="138" started-at="2022-12-25T20:49:16 IST" finished-at="2022-12-25T20:49:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+        <test-method status="PASS" signature="FirstCall(java.lang.String)[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="FirstCall" is-config="true" duration-ms="9768" started-at="2022-12-25T20:49:16 IST" finished-at="2022-12-25T20:49:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstCall -->
+        <test-method status="PASS" signature="VerifyInvalidUserLogin(java.lang.String,java.lang.String)[pri:2, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="VerifyInvalidUserLogin" duration-ms="917" started-at="2022-12-25T20:49:26 IST" data-provider="InvalidLoginDatas" finished-at="2022-12-25T20:49:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pasword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidUserLogin -->
+        <test-method status="PASS" signature="DriverClose()[pri:0, instance:com.Restaurant.TestCases.VerifyValidUserLoginTest@b9afc07]" name="DriverClose" is-config="true" duration-ms="160" started-at="2022-12-25T20:49:27 IST" finished-at="2022-12-25T20:49:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- com.Restaurant.TestCases.VerifyValidUserLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
